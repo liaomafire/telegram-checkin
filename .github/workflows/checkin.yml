@@ -20,7 +20,7 @@ on:
 jobs:
   checkin:
     runs-on: ubuntu-latest
-    environment: testhahaS
+    environment: testhaha
     permissions:
       contents: write
 
